@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("go-layout command!")
+	fmt.Println("go-layout command V2!")
 }

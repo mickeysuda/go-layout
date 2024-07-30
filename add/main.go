@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(math.Add(1, 2))
+	fmt.Println("Add v2: 1+2=", math.Add(1, 2))
 }
