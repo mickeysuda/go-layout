@@ -11,3 +11,7 @@ func Sub(x int, y int) int {
 func Multiple(x, y int) int {
 	return x * y
 }
+
+func Devide(x int, y int) int {
+	return x / y
+}
